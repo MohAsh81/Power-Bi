@@ -30,6 +30,13 @@ A comprehensive sales dashboard analyzing:
 - Quarterly and annual sales trends.
 - Compare sales/profit/quantity sold between any two periods selected by the user.
 
+### 2. **Insurance Data Analysis**
+A Insurance dashboard analyzing:
+- Gender sales performance.
+- Contribution by age groups.
+- partitioning by policy type.
+- comparing requests for each policy type.
+
 ## 🎨 **Design Philosophy**
 Each project is designed with the following principles:
 1. **Clarity**: Visuals are easy to interpret and focus on key insights.
