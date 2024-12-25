@@ -37,6 +37,12 @@ A Insurance dashboard analyzing:
 - partitioning by policy type.
 - comparing requests for each policy type.
 
+### 3. **Tranasction Report** 
+A Analysis on Transactions on a Specific Period:
+- Analyzing Trends Based on months.
+- Using Slicers for increasing access ability.
+- Using Bookmarks for having multiple Switchable chart in one page.
+
 ## 🎨 **Design Philosophy**
 Each project is designed with the following principles:
 1. **Clarity**: Visuals are easy to interpret and focus on key insights.
