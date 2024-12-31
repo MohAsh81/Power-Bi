@@ -43,6 +43,12 @@ A Analysis on Transactions on a Specific Period:
 - Using Slicers for increasing access ability.
 - Using Bookmarks for having multiple Switchable chart in one page.
 
+### 4. **Shopping Trends**
+A Shopping Data Based on Cutomers Data:
+- Analyzing trends of sales based on season and month.
+- Analyzing trends based on customer type.
+- Using cutomized theme on report. 
+
 ## 🎨 **Design Philosophy**
 Each project is designed with the following principles:
 1. **Clarity**: Visuals are easy to interpret and focus on key insights.
